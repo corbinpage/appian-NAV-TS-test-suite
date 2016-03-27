@@ -1,0 +1,21 @@
+{
+  "name": "appian-nav-ts-test-suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbinpage/appian-NAV-TS-test-suite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbinpage/appian-NAV-TS-test-suite/issues"
+  },
+  "homepage": "https://github.com/corbinpage/appian-NAV-TS-test-suite#readme"
+}
